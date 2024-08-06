@@ -1,0 +1,44 @@
+.name{
+margin-left: 130px;
+margin-top: -18px;
+}
+.box{
+    border: none;
+    width: 400px;
+    height: 600px;
+}
+.name1{
+    margin-left: 130px;
+    margin-top: -18px;
+    }
+.nick{
+    margin-left: 130px;
+    margin-top: -18px;
+    }
+.mail{
+    margin-left: 130px;
+    margin-top: -18px;
+    }
+.pass{
+    margin-left: 130px;
+    margin-top: -18px;
+    }
+.date{
+    margin-left: 130px;
+    margin-top: -18px; 
+}
+.gender{
+    margin-left: 130px;
+    margin-top: -35px;  
+}
+.num{
+    margin-left: 80px;
+    margin-top: -18px; 
+}
+.sub{
+    margin-left: 130px;
+    margin-top: -20px;
+}
+.res{
+    margin-left: 50px;
+}
