@@ -164,3 +164,79 @@ body{
     font-size: 17;
     margin-top: -550px;
 }
+
+/*tiger 2*/
+.wik{
+    font-size: 30px;
+    margin-left: 60px;
+    transform: translateY(30px);
+}
+.search1{
+    margin-left: 250px;
+    transform: translateY(-30px);
+
+    width: 250px;
+    height: 25px;
+}
+.Tiger{
+    font-size: 40px;
+    transform: translateX(50px);
+}
+.div{
+    border: 1px solid none;
+    transform: translateX(450px);
+    width: 750px;
+    height: 1400px;
+}
+.tige2img{
+    border: 1px solid black;
+    width: 300px;
+    height: 230px;
+    transform: translateY(-1250px);
+    margin-left: 1300px;
+}
+.divtext{
+    margin-top: -2px;
+}
+.table1{
+    margin-top: 200px;
+}
+.img1{
+    border: 1px solid black;
+    width: 300px;
+    height: 220px;
+    margin-top: -1850px;
+    margin-left: 10px;
+}
+.imgtext{
+    font-size: 17px;
+    transform: translateY(-20px);
+}
+.img2{
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 10px;
+}
+.img3{
+    border: 1px solid black;
+    width: 300px;
+    height: 350px;
+    margin-top: 120px;
+    margin-left: 10px;  
+}
+.img4{
+    border: 1px solid black;
+    width: 300px;
+    height: 220px;
+    margin-top: 130px;
+    margin-left: 10px;    
+}
+.img5{
+    border: 1px solid black;
+    width: 300px;
+    height: 260px;
+    margin-top: -900px;
+    margin-left: 1300px;    
+}
