@@ -1,0 +1,24 @@
+h1{
+    font-size: 2em;
+    color: rgba(0, 0, 0, 0.808);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:900;
+}
+.but{
+    width: 300px;
+    height: 40px;
+    font-size: 2em;
+    border-radius: 10px;
+    background-color: rgb(104, 211, 104);
+}
+#input{
+    width: 300px;
+    height: 30px;
+    border: 1px solid black;
+    background-color: rgb(9, 131, 90);
+    font-size: 2em;
+    color: brown;
+    transform: translateY(80px);
+    margin-left: -300px;
+    
+}
